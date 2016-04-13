@@ -1,1 +1,1 @@
-Repo de wp-content de wordpress de Lenguas Vivas
+Repo de wp-content de wordpress de Lenguas Vivas.
